@@ -1,3 +1,14 @@
+person_info={}
+
+person_info={
+    f_name:"Ravi",
+    l_name:"Singh",
+    email:"ravi@gmail.com",
+    contact:"2333231312"
+}
+
+person_info[:f_name]
+
 hash=Hash.new
 
 hash.methods
